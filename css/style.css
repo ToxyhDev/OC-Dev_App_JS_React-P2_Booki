@@ -3,6 +3,7 @@
     font-family: 'Raleway', sans-serif;
     font-size: var(--global-size);
     scroll-behavior: smooth;
+    box-sizing: border-box;
 }
 
 :root {
@@ -51,7 +52,7 @@ h1, h2, h3, h4, p {
 
 a {
     text-decoration: none;
-    color:currentColor;
+    color: currentColor;
 }
 
 .main-container {
