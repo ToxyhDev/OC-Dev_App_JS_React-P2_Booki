@@ -2,17 +2,10 @@
 
 - **ANNEXE - Ressources projets**
     
-    🔗 [Lien dossier projet google drive](https://drive.google.com/drive/folders/1iEnE9L4YCTxl5JXHhrj1Q9R8RIcqZc-F?usp=drive_link)
-    
-    ---
-    
     🖌️ [Maquette figma](https://www.figma.com/file/mjfXFyTyiTqHIeVXsnQoYH/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)-(Copy)?type=design&node-id=3-0&mode=design&t=Q0qr56pdG4woIddS-0)
     
     ---
     
-    📄 [Synthese projet](https://course.oc-static.com/projects/Développeur+Web/IW_P3+HTML+CSS+Booki/IW+:+React+Booki+-+Note+de+synthese.pdf)
-    
-    ---
     
     💻 [Github projet](https://github.com/OpenClassrooms-Student-Center/booki-starter-code.git)
     
@@ -34,13 +27,10 @@
 **Objectifs :**
 
 - Tenir le planning pour la réalisation du projet: OK
-- Faire une bonne soutenance:
 
 ---
 
 ## 📑 Etapes :
-
-➡️ [Fiche étapes](https://course.oc-static.com/projects/Développeur+Web/IW_P3+HTML+CSS+Booki/IW+:+React+Booki+-+Etapes+cles.pdf)
 
 - [x]  **Étape n° 1 : Mettez en place votre environnement de développement**
 - [x]  **Étape n°2 : Découpez votre maquette**
